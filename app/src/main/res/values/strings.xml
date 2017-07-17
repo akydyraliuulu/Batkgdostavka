@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Batkgdostavka</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="category">
+        <item>Shookum</item>
+        <item>Saresep</item>
+        <item>Zaman</item>
+    </string-array>
+    <string-array name="images">
+        <item>@drawable/shookum1</item>
+        <item>@drawable/shookum1</item>
+        <item>@drawable/shookum1</item>
+    </string-array>
+    <string-array name="phone">
+        <item>0778841111</item>
+        <item>0779940110</item>
+    </string-array>
+    <string-array name="phone_images">
+        <item>@drawable/phone</item>
+        <item>@drawable/phone</item>
+    </string-array>
+    <string name="title_activity_detail">DetailActivity</string>
+</resources>
